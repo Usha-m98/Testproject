@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="tests.PutPatchDeleteExamples">
+      <class name="demo.JsonSchemaValidator">
         <methods>
-          <include name="testdelete"/>
+          <include name="schema"/>
         </methods>
-      </class> <!-- tests.PutPatchDeleteExamples -->
+      </class> <!-- demo.JsonSchemaValidator -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
