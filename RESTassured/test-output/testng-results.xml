@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-29T14:02:49 IST" name="Default suite" finished-at="2021-04-29T14:02:54 IST" duration-ms="5241">
+  <suite started-at="2021-05-11T17:46:51 IST" name="Default suite" finished-at="2021-05-11T17:47:01 IST" duration-ms="10546">
     <groups>
     </groups>
-    <test started-at="2021-04-29T14:02:49 IST" name="Default test" finished-at="2021-04-29T14:02:54 IST" duration-ms="5241">
-      <class name="demo.JsonSchemaValidator">
-        <test-method signature="schema()[pri:0, instance:demo.JsonSchemaValidator@69997e9d]" started-at="2021-04-29T14:02:49 IST" name="schema" finished-at="2021-04-29T14:02:54 IST" duration-ms="5168" status="PASS">
+    <test started-at="2021-05-11T17:46:51 IST" name="Default test" finished-at="2021-05-11T17:47:01 IST" duration-ms="10546">
+      <class name="demo.XMLSchemaValidation">
+        <test-method signature="XmlSchema()[pri:0, instance:demo.XMLSchemaValidation@2fd1433e]" started-at="2021-05-11T17:46:51 IST" name="XmlSchema" finished-at="2021-05-11T17:47:01 IST" duration-ms="10430" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- schema -->
-      </class> <!-- demo.JsonSchemaValidator -->
+        </test-method> <!-- XmlSchema -->
+      </class> <!-- demo.XMLSchemaValidation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
