@@ -12,31 +12,15 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/usham/Downloads/gson-2.8.7.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/usham/Downloads/jackson-core-2.12.4.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/usham/Downloads/jackson-annotations-2.12.4.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/usham/Downloads/jackson-databind-2.12.4.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/usham/Downloads/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usham/Downloads/gson-2.8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usham/Downloads/jackson-core-2.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usham/Downloads/jackson-annotations-2.12.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/usham/Downloads/jackson-databind-2.12.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
